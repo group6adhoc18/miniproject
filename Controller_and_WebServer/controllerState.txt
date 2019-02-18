@@ -1,0 +1,5 @@
+Light outsite: 	None
+Smart phone detection: 	False
+Door current action: 	None
+Door state: 	False
+Light relays: 	None
