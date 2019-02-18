@@ -8,3 +8,6 @@ The goal of the project is to turn on the light only when somebody is at home. S
 
 ### Further Information
 can be found in the presentation.pdf
+
+### Demonstration
+https://www.youtube.com/watch?v=PLyDs9AzOL4
